@@ -1,4 +1,4 @@
-const BASE_URL = "https://edulity9.onrender.com/api/v1"
+const BASE_URL = "https://edulity-1-99hu.onrender.com"
 
 // AUTH ENDPOINTS /*done*/
 export const authendpoints = {
