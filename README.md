@@ -141,5 +141,5 @@ This infrastructure ensures scalability, security, and reliability.
 
 
 
-link website::edulity.vercel.app
+link website:: https://edulity.vercel.app
 
