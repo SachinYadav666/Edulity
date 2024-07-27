@@ -137,3 +137,9 @@ Edulity is deployed on various cloud-based services:
 
 This infrastructure ensures scalability, security, and reliability.
 
+
+
+
+
+link website::edulity.vercel.app
+
